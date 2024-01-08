@@ -1,5 +1,5 @@
 ##Romina Akhavan Salmasi
-##Assig46
+##Assignment_46
 
 import numpy as np
 x = np.array([[120, 50, 1],[60, 20, 2],
