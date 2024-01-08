@@ -1,5 +1,5 @@
 ##Romina Akhavan Salmasi
-#Assig47
+#Assignment_47
 
 import pandas as pd
 data = pd.read_excel('Assig47.xlsx')
