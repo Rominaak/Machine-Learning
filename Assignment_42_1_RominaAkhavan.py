@@ -9,9 +9,6 @@ data = pd.read_excel('Assig42_1.xlsx')
 x = data[['a','b','c']]
 y = data['d']
 
-
-
-
 #developing and training model
 
 from sklearn.model_selection import train_test_split
